@@ -47,18 +47,14 @@ Beyond Java, I have experience with **JavaScript, React, mobile development, Git
 
 ## 📊 GitHub Stats
 
+> ℹ️ If the cards do not appear immediately, GitHub may be temporarily blocking external images. They usually render correctly after a refresh or some time.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernardobbl&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbl&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img alt="Bernardo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bernardobbl&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbl&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
-
-## 📫 Let's Connect
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/bernardo-barcellos-barcellos-a55baa322/)
-* 📧 Email: [bernardobarcellosleite@gmail.com](mailto:bernardobarcellosleite@gmail.com)
-
----
-
-⭐ Feel free to explore my repositories and connect with me. I'm always open to collaboration and new opportunities!
