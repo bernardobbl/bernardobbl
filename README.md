@@ -1,18 +1,49 @@
-👨‍💻 Bernardo Barcellos Leite
-Software Engineer | Java & Full Stack Developer
-I am a Software Engineer with strong expertise in Java and Spring Boot, focused on building robust, scalable, and high-performance applications. I have solid hands-on experience with MySQL, Hibernate, Kubernetes, and cloud-based solutions, always applying software engineering best practices.
-I hold a degree in Internet Systems and I am currently pursuing a Bachelor’s in Computer Science, combining academic knowledge with real-world experience to continuously improve my technical and professional skills.
-I had the opportunity to work for a US-based company developing mobile solutions, where the product’s mission was to foster meaningful connections among users who share the same values and life goals. This experience strengthened my English fluency, expanded my global perspective, and enhanced my ability to collaborate effectively with international teams.
-Beyond Java, I also have experience with JavaScript, React, mobile development, Git, AWS, and agile methodologies. I value proactivity, efficiency, collaboration, and adaptability, and I am always motivated by new challenges and continuous growth.
-🛠️ Languages & Technologies
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/> <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> <img align="left" alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/> <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> <img align="left" alt="Hibernate" title="Hibernate" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg"/> <img align="left" alt="Kubernetes" title="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg"/> <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"/> <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/> <br/> <br/>
-📊 GitHub Statistics
-<p> <img align="left" alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true" />
-<img align="left" alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&theme=tokyonight&layout=compact&langs_count=8" />
-</p> <br/> <br/> <br/>
-🌍 Professional Highlights
-💼 Experience working with international (US-based) teams
-📱 Mobile application development
-☁️ Cloud & containerized environments (AWS, Kubernetes)
-🔁 Agile & collaborative development
-🌐 Advanced technical and professional English communication
+# 👋 Hi, I'm Bernardo Barcellos Leite
+
+**Software Engineer | Java & Full Stack Developer**
+
+I am a Software Engineer with strong expertise in **Java** and **Spring Boot**, focused on building **robust, scalable, and high‑performance applications**. I have hands‑on experience with **MySQL, Hibernate, Kubernetes**, and **cloud‑based solutions**, always applying software engineering best practices.
+
+I hold a degree in **Internet Systems** and I am currently pursuing a **Bachelor’s degree in Computer Science**, combining solid academic foundations with real‑world experience. I have also worked with **US‑based international teams**, contributing to mobile solutions designed to foster meaningful connections among users. This experience strengthened my **English fluency**, global perspective, and ability to collaborate effectively across cultures.
+
+Beyond Java, I have experience with **JavaScript, React, mobile development, Git, AWS**, and **agile methodologies**. I value **proactivity, efficiency, collaboration, and adaptability**, and I am always motivated by new challenges and continuous growth.
+
+---
+
+## 🛠️ Languages & Technologies
+
+* **Backend:** Java, Spring Boot, Hibernate, JPA
+* **Frontend:** JavaScript, React
+* **Databases:** MySQL
+* **Cloud & DevOps:** AWS, Docker, Kubernetes
+* **Mobile:** Android / Mobile Development
+* **Tools:** Git, GitHub
+* **Methodologies:** Agile, Scrum
+
+---
+
+## 🌍 Professional Highlights
+
+* 🌎 Experience working with **international (US‑based) teams**
+* 📱 **Mobile application development**
+* ☁️ **Cloud & containerized environments** (AWS, Docker, Kubernetes)
+* 🤝 **Agile & collaborative development** practices
+* 🗣️ **Advanced professional English communication**
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardobbl\&show_icons=true\&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbl\&layout=compact\&theme=dark)
+
+---
+
+## 📫 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/bernardo-barcellos-barcellos-a55baa322/)
+* 📧 Email: [bernardobarcellosleite@gmail.com](mailto:bernardobarcellosleite@gmail.com)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me. I'm always open to collaboration and new opportunities!
