@@ -21,7 +21,6 @@ Beyond Java, I have experience with **JavaScript, React, mobile development, Git
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
@@ -45,16 +44,3 @@ Beyond Java, I have experience with **JavaScript, React, mobile development, Git
 
 ---
 
-## 📊 GitHub Stats
-
-> ℹ️ If the cards do not appear immediately, GitHub may be temporarily blocking external images. They usually render correctly after a refresh or some time.
-
-<p align="center">
-  <img alt="Bernardo GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bernardobbl&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbl&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
