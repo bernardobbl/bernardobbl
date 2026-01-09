@@ -12,12 +12,25 @@ Beyond Java, I have experience with **JavaScript, React, mobile development, Git
 
 ## 🛠️ Languages & Technologies
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
 * **Backend:** Java, Spring Boot, Hibernate, JPA
 * **Frontend:** JavaScript, React
-* **Databases:** MySQL , MongoDB
+* **Databases:** MySQL, MongoDB
 * **Cloud & DevOps:** AWS, Docker, Kubernetes
 * **Mobile:** Android / Mobile Development
-* **Tools:** Git, GitHub , CI/CD
+* **Tools:** Git, GitHub, CI/CD
 * **Methodologies:** Agile, Scrum
 
 ---
@@ -34,8 +47,10 @@ Beyond Java, I have experience with **JavaScript, React, mobile development, Git
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardobbl\&show_icons=true\&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbl\&layout=compact\&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bernardobbl&show_icons=true&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardobbl&layout=compact&theme=dark" height="165" />
+</p>
 
 ---
 
