@@ -14,10 +14,10 @@ Beyond Java, I have experience with **JavaScript, React, mobile development, Git
 
 * **Backend:** Java, Spring Boot, Hibernate, JPA
 * **Frontend:** JavaScript, React
-* **Databases:** MySQL
+* **Databases:** MySQL , MongoDB
 * **Cloud & DevOps:** AWS, Docker, Kubernetes
 * **Mobile:** Android / Mobile Development
-* **Tools:** Git, GitHub
+* **Tools:** Git, GitHub , CI/CD
 * **Methodologies:** Agile, Scrum
 
 ---
