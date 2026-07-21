@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/bernardobbl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Bernardo+Barcellos+Leite+%F0%9F%91%8B;Junior+Full+Stack+Developer;React+Native+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+AWS;Building+production+apps+for+international+teams" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Bernardo+Barcellos+Leite+%F0%9F%91%8B;Software+Engineer+%C2%B7+Backend+%26+Mobile;React+Native+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+AWS;Building+production+apps+for+international+teams" alt="Typing intro" />
 </a>
 
 <br />
@@ -12,14 +12,11 @@
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/bernardobacellosleite">
+<a href="https://www.linkedin.com/in/bernardobarcellosleite">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:bernardobarcellosleite@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://wa.me/5583986441925">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://github.com/bernardobbl">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -31,20 +28,20 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with hands-on experience building **iOS and Android mobile applications** and **back-end systems** for a U.S.-based company — with the app **live on the App Store and Google Play**.
+I'm a **Software Engineer** focused on **back-end and mobile**, with hands-on experience building **iOS and Android mobile applications** and **back-end systems** for a U.S.-based company — with the app **live on the App Store and Google Play**.
 
-I work daily with **JavaScript, React Native, Java, and Spring Boot**, and I have practical exposure to **CI/CD pipelines, cloud infrastructure (AWS), and agile workflows** inside an international, fully English-speaking team of 9 developers.
+I work daily with **JavaScript, React Native, Java, and Spring Boot**, and I have practical exposure to **CI/CD pipelines, cloud infrastructure (AWS), and agile workflows** inside an international, fully English-speaking team of 10 people.
 
 I care about clean code, predictable deployments, and shipping things that real users actually open — not just demos.
 
 <br />
 
-> **🎓 Bachelor's in Computer Science** (UNIPE, 2024 → ongoing) · **Technologist in Internet Systems** (UNIESP, 2023 – 2025)
+> **🎓 B.Sc. in Computer Science** (UNIPÊ, expected 2027) · **Technical Degree in Internet Systems** (UNIESP)
 > **🌎 Languages:** Portuguese (Native) · English (Professional)
 
 ---
 
-## 🚀 Featured Project — Cross Talk Bible
+## 🚀 Featured Project — CrossTalk-Bible
 
 <table>
   <tr>
@@ -55,7 +52,7 @@ I care about clean code, predictable deployments, and shipping things that real 
     <td>
       A faith-based social app published on the <b>App Store</b> and <b>Google Play</b>, built for a U.S.-based company connecting users through meaningful conversation.
       <br /><br />
-      <b>My role:</b> Built and maintained features end-to-end, set up and maintained <b>CI/CD pipelines</b> with automated builds and test coverage, and collaborated with an international team of <b>9 developers</b> entirely in English via Git/GitHub code reviews.
+      <b>My role:</b> Built features in React Native for Android and iOS (Bible reading, Pray Wall, community prayer), integrated AI-powered chat for conversations about verses and faith, and took part in the full cycle — development, testing, and store publication — collaborating daily in English with a distributed team of <b>10 people</b>.
       <br /><br />
       <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -101,7 +98,7 @@ I care about clean code, predictable deployments, and shipping things that real 
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<sub>AWS services I've used: <b>EC2 · S3 · RDS · SQS · SNS</b></sub>
+<sub>AWS services I've used: <b>SES · SNS · SQS · S3</b></sub>
 
 </div>
 
@@ -127,7 +124,7 @@ I care about clean code, predictable deployments, and shipping things that real 
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bernardobbl&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=bernardobbl&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -139,7 +136,7 @@ I'm **available for immediate start** and open to **remote, hybrid, or on-site**
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bernardobacellosleite">
+<a href="https://www.linkedin.com/in/bernardobarcellosleite">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:bernardobarcellosleite@gmail.com">
