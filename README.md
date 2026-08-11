@@ -15,6 +15,9 @@
 <a href="https://www.linkedin.com/in/bernardobarcellosleite">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.upwork.com/freelancers/~01f1200c87873c0580?mp_source=share">
+  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
 <a href="mailto:bernardobarcellosleite@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -132,12 +135,15 @@ I care about clean code, predictable deployments, and shipping things that real 
 
 ## 🤝 Let's Build Something
 
-I'm **available for immediate start** and open to **remote, hybrid, or on-site** opportunities — especially with international teams.
+I'm **available for immediate start** and open to **remote, hybrid, or on-site** opportunities — especially with international teams. You can also hire me directly on **Upwork**.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bernardobarcellosleite">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.upwork.com/freelancers/~01f1200c87873c0580?mp_source=share">
+  <img src="https://img.shields.io/badge/Hire%20me%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 <a href="mailto:bernardobarcellosleite@gmail.com">
   <img src="https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
